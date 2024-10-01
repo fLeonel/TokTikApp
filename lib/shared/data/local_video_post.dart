@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 List<Map<String,dynamic>> videoPosts = [
+=======
+List<Map<String, dynamic>> videoPosts = [
+>>>>>>> class
   {
     'name': 'Subiendo escaleras automáticas',
     'videoUrl': 'assets/videos/1.mp4',
@@ -47,6 +51,9 @@ List<Map<String,dynamic>> videoPosts = [
     'likes': 342,
     'views': 3332,
   },
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> class
 ];
